@@ -1,5 +1,8 @@
 # kursadarbs1
 
+Romans Drozdovs 221REB069
+
+
 # Bot:
 
 Tika izmantotas bibliotēkas telegram, asyncio, datetime, time
