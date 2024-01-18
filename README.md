@@ -1,7 +1,7 @@
 # kursadarbs1
 
 Romans Drozdovs 221REB069
-
+Aleksandrs Šenkarenko 221RDB370
 
 # Bot:
 
@@ -21,3 +21,8 @@ time:
 
 datetime:
 Šī bibliotēka tiek izmantota, lai iegūtu informāciju par pašreizējo dienu, mēnesi un gadu, izmantojot datetime.datetime.utcnow() funkciju.
+
+# Parser:
+Tika izmantotas silenium biblioteka, lai stradatu ar vietnes datiem un nonemtu informāciju par studenta kursa, grupas un lekcijas informaciju
+
+programmura atver vietni, kurā atlasa vēlamo kursu un grupu, pēc tam, pamatojoties uz datumu, nolasa informāciju par lekcijām, kas notiek konkrētajā dienā un atgriež rezultātu botam, kas pēc tam parāda informāciju par lekcijām, kuras būs.  ja lekciju nav , tad programma pēc informācijas pārbaudes parāda, ka tajā dienā lekciju nav.
